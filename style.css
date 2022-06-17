@@ -11,10 +11,6 @@ body{
     background-color: black;
 }
 
-/* Can't get background image to show up. Not sure what's missing.
-Have tried style tag, id, class, element, internal. I have entered path manually as well as copied full path and relative path.
-Have also referenced w3schools, google and youtube and tried all fixes and nothing will work */
-
 .selection {
     font-size: 25px;
     font-weight: bold;
